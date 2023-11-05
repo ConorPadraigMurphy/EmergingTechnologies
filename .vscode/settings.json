@@ -6,6 +6,8 @@
         "Hadamard",
         "Initialisation",
         "initialise",
+        "Jozsa",
+        "qiskit",
         "qubit",
         "qubits",
         "synchronised"
