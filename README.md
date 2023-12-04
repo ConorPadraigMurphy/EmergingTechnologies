@@ -9,7 +9,6 @@ This README.md file serves as a guide to navigating my assignment on Deutsch's A
 - [Introduction](#introduction)
 - [Key Sections](#key-sections)
 - [Getting Started](#getting-started)
-- [Conclusion](#conclusion)
 
 ## Overview
 
@@ -47,8 +46,4 @@ To get started with the assignment, follow these steps:
     - pip install matplotlib
     - pip install qiskit-ibmq-provider
 
-
-## Conclusion
-
-The README.md file serves as a guide to navigating the Quantum Computing assignment. For any questions or clarifications, feel free to contact [Your Name] at [your.email@example.com].
 
