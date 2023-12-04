@@ -7,7 +7,7 @@ This README.md file serves as a guide to navigating my assignment on Deutsch's A
 - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
 - [Introduction](#introduction)
-- [Key Sections](#key-sections)
+- [Key Sections in Assignment (Project.ipynb)](#key-sections-in-assignment-projectipynb)
 - [Getting Started](#getting-started)
 
 ## Overview
@@ -18,7 +18,7 @@ This repository contains materials related to the Quantum Computing assignment, 
 
 Quantum computing is a rapidly evolving field that promises to revolutionize traditional computational paradigms. This assignment provides a comprehensive exploration of quantum algorithms, shedding light on Deutsch's Algorithm and its implications in the quantum realm.
 
-## Key Sections
+## Key Sections in Assignment (Project.ipynb)
 
 - **Quantum Computer Basics**
 
@@ -41,7 +41,7 @@ Quantum computing is a rapidly evolving field that promises to revolutionize tra
 
 To get started with the assignment, follow these steps:
 
-1. Install the following
+1. Install the following to run code in my assignment:
     - pip install qiskit
     - pip install matplotlib
     - pip install qiskit-ibmq-provider
