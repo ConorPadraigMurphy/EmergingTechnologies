@@ -1,7 +1,9 @@
+## Deutsch's Algorithm Assignment - Conor Murphy G00399177
 
 This README.md file serves as a guide to navigating my assignment on Deutsch's Algorithm. For any questions or clarifications, feel free to contact Conor Murphy at G00399177@ATU.IE 
 
 ## Table of Contents
+- [Deutsch's Algorithm Assignment - Conor Murphy G00399177](#deutschs-algorithm-assignment---conor-murphy-g00399177)
 - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
 - [Introduction](#introduction)
